@@ -59,9 +59,26 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://imgur.com/aDvn4L6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-19. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+4.  Next I'm Creating a new ticket I picked a Help topic I created in the last lab General Inquiry Issues. 
 </p>
 <br />
+
+<p>
+<img src="https://imgur.com/ZCMkUAA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+5. Now another new ticket was successfully sent.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/X5B3LiF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+20. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
 
 <p>
 <img src="https://imgur.com/pp8kc6o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -181,13 +198,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 
-<p>
-<img src="https://imgur.com/X5B3LiF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-20. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
 <img src="https://imgur.com/F3KPUwm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
