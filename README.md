@@ -75,7 +75,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://imgur.com/X5B3LiF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-20. Now as a help desk I'm going to be doing some troubleshooting and solving issues.
+6. Now as a help desk I'm going to be doing some troubleshooting and solving issues.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/F3KPUwm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+21. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
@@ -199,13 +207,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 
-<p>
-<img src="https://imgur.com/F3KPUwm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-21. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
 <p>
 <img src="https://imgur.com/6vZlnpY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
