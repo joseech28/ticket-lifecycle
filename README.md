@@ -39,7 +39,7 @@ pick a Help topics I created in the last lab business critical
 <br />
 
 <p>
-<img src="https://imgur.com/ZCMkUAA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/3gJGYJ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
