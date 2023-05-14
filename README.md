@@ -86,7 +86,9 @@ To view the details of a ticket, I click on the ticket number.
 <img src="https://imgur.com/F3KPUwm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. The ticket details page displays all relevant information about the ticket, including the status, priority, and any notes or replies.
+7. Tickets can be assigned to different agents or departments if necessary.
+To assign a ticket to a different agent, I click on the "Assign" button on the ticket details page.
+
 <br />
 
 <p>
