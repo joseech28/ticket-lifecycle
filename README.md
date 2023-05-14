@@ -51,7 +51,7 @@ I click "Submit" to create the new ticket.
 <img src="https://imgur.com/ZCMkUAA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Now a  new ticket was successfully sent Once the ticket is created, it is assigned a unique ticket number and The ticket is automatically assigned to the department that I selected during ticket creation..
+3. Now a  new ticket was successfully sent Once the ticket is created, it is assigned a unique ticket number and The ticket is automatically assigned to the department that I selected during ticket creation.
 </p>
 <br />
 
@@ -68,7 +68,8 @@ I click "Submit" to create the new ticket.
 <img src="https://imgur.com/ZCMkUAA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5. Now another new ticket was successfully sent.
+5. Now another a new ticket was successfully sent Once the ticket is created, it is assigned a unique ticket number and The ticket is automatically assigned to the department that I selected during ticket creation.
+
 </p>
 <br />
 
