@@ -59,7 +59,8 @@ I click "Submit" to create the new ticket.
 <img src="https://imgur.com/aDvn4L6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4.  Next I'm Creating a new ticket I picked a Help topic I created in the last lab General Inquiry Issues. 
+4. Next I'm Creating a new ticket I picked a Help topic I created in the last lab General Inquiry Issues.new ticket I fill out the necessary information in the ticket creation form, including the subject, department, priority, and message I click "Submit" to create the new ticket. 
+
 </p>
 <br />
 
