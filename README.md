@@ -118,8 +118,9 @@ To assign a ticket to a different agent, I click on the "Assign" button on the t
 <img src="https://imgur.com/9vTcmdd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+11. I can also change the status or priority of the ticket from the ticket details page
+When a ticket is resolved, I can mark it as "closed" by changing the ticket status.
+
 <br />
 
 <p>
