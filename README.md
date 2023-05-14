@@ -85,7 +85,9 @@ I click "Submit" to create the new ticket.
 <img src="https://imgur.com/F3KPUwm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-21. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+7. I can view the ticket from the "Tickets" menu in the left-hand sidebar.
+To view the details of a ticket, I click on the ticket number.
+
 </p>
 <br />
 
