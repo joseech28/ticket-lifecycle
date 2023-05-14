@@ -41,7 +41,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://imgur.com/3gJGYJ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2. Creating a new ticket I picked a Help topic I created in the last lab Personal Computer Issues.
+2. From the dashboard, I click on "Tickets" in the left-hand menu I click on the "Create New Ticket" button to create a new ticket I fill out the necessary information in the ticket creation form, including the subject, department, priority, and message
+I click "Submit" to create the new ticket.
 .
 </p>
 <br />
