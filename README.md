@@ -77,7 +77,8 @@ I click "Submit" to create the new ticket.
 <img src="https://imgur.com/uPB1Jhf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6. Now as a help desk I'm going to be doing some troubleshooting and solving issues.
+6. Now as a help desk I'm going to be doing some troubleshooting and solving issues.I can view the ticket from the "Tickets" menu in the left-hand sidebar.
+To view the details of a ticket, I click on the ticket number.
 </p>
 <br />
 
@@ -85,10 +86,7 @@ I click "Submit" to create the new ticket.
 <img src="https://imgur.com/F3KPUwm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. I can view the ticket from the "Tickets" menu in the left-hand sidebar.
-To view the details of a ticket, I click on the ticket number.
-
-</p>
+7. The ticket details page displays all relevant information about the ticket, including the status, priority, and any notes or replies.
 <br />
 
 
