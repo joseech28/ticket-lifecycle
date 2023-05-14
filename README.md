@@ -74,7 +74,7 @@ I click "Submit" to create the new ticket.
 <br />
 
 <p>
-<img src="https://imgur.com/X5B3LiF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/uPB1Jhf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 6. Now as a help desk I'm going to be doing some troubleshooting and solving issues.
