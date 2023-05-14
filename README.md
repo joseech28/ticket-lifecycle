@@ -33,8 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://imgur.com/ajee6Fg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. User ticketing system and interface. 
-
+1. User ticketing system and interface, now I log in to my osTicket account using my username and password.
 </p>
 <br />
 
