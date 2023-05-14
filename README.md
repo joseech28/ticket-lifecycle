@@ -111,7 +111,7 @@ To assign a ticket to a different agent, I click on the "Assign" button on the t
 <img src="https://imgur.com/pp8kc6o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-8. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+10. I can add notes or replies to the ticket by clicking on the "Post Reply" button.
 </p>
 <br />
 <p>
