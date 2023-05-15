@@ -135,9 +135,14 @@ When a ticket is resolved, I can mark it as "closed" by changing the ticket stat
 <img src="https://imgur.com/QfoJMMD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-12. I can also change the status for the SLA plan.
+13. If the ticket involves a service level agreement (SLA), I ensure compliance with the agreed-upon response and resolution times.
 </p>
 <br />
 
-
+<p>
+<img src="https://imgur.com/nzHCvB6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+14. If the issue was caused by a bug or system error, I report it to the development team for further investigation.
+<br />
 <
