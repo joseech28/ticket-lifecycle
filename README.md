@@ -127,7 +127,7 @@ When a ticket is resolved, I can mark it as "closed" by changing the ticket stat
 <img src="https://imgur.com/cu4s6Mc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-12. I can also change the status or priority of the ticket from the ticket details page
+12. I can also uptate the status or priority level for the ticket.
 </p>
 <br />
 
