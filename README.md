@@ -8,7 +8,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Pictures Demonstration</h2>
 
-- ### [Pictures: How to create, work, and resolves tickets within osTicket](https://https://github.com/joseech28/ticket-lifecycle)
+- ### [Picture: How to create, work, and resolves tickets within osTicket]https://github.com/joseech28/ticket-lifecycle
 
 <h2>Environments and Technologies Used</h2>
 
